@@ -1,0 +1,8 @@
+Create a RESTful API in Go that allows users to manage a list of items. The API should have the
+following endpoints:
+GET /items - Retrieves a list of all items.
+GET /items/{id} - Retrieves a specific item by its ID.
+POST /items - Creates a new item.
+PUT /items/{id} - Updates an existing item.
+DELETE /items/{id} - Deletes an existing item.
+The item object should have the following fields:
